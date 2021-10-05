@@ -157,6 +157,10 @@ export const chapterFormatting = css`
     list-style-type: disc;
   }
 
+  em {
+    font-style: italic;
+  }
+
   p a,
   li a,
   .aside a {
